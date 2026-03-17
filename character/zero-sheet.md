@@ -14,7 +14,7 @@
 - **Gender:** Non-Binary (they/them)
 - **Age:** 32
 - **Height/Weight:** 6'2" / 140 lb
-- **Faith:** Tymora
+- **Faith:** Tymoran
 - **Default Appearance:** Grey skin, white eyes, white hair
 - **Allies:** Anyone associated with New Olamn in Waterdeep
 - **Organizations:** New Olamn (bardic college, Waterdeep)
@@ -53,13 +53,13 @@
 |---|---|---|---|
 | Acrobatics | DEX | P | +5 |
 | Animal Handling | WIS | J | +1 |
-| Arcana | INT | J | +2 |
+| Arcana | INT | P | +2 |
 | Athletics | STR | P | +1 |
 | Deception | CHA | E | +7 |
 | History | INT | P | +2 |
 | Insight | WIS | P | +2 |
 | Intimidation | CHA | P | +5 |
-| Investigation | INT | J | +2 |
+| Investigation | INT | P | +2 |
 | Medicine | WIS | J | +1 |
 | Nature | INT | J | +1 |
 | Perception | WIS | P | +2 |
@@ -84,28 +84,29 @@
 
 ## Species Traits — Changeling
 - **Creature Type:** Fey
-- **Size:** Medium (can shift to Small)
-- **Shape-Shift:** As an action, alter appearance and voice. Can change coloration, hair, height, weight, and size (Medium/Small). Cannot duplicate someone you've never seen or copy another playable species' game statistics. Doesn't change clothing or equipment. Revert with an action.
-- **Changeling Instincts:** Expertise in Deception and Persuasion
+- **Size:** Medium or Small (chosen at character creation)
+- **Speed:** 30 ft.
+- **Changeling Instincts:** Proficiency in two skills of your choice: Deception and Persuasion
+- **Shape-Shifter:** As an action, alter appearance and voice. You determine the specifics, including coloration, hair, height, weight, and sex. Can shift size between Medium and Small. Can appear as a member of another playable species, though none of your game statistics change. Cannot duplicate someone you've never seen. Doesn't change clothing or equipment. Revert with an action.
+- **Languages:** Common plus two additional languages
 
 ---
 
 ## Class Features — Bard (Level 3)
 - **Spellcasting:** Charisma-based | Spell Save DC 13 | Spell Attack +5 | Focus: Musical Instrument
-- **Bardic Inspiration (d6):** 3 uses / Long Rest — Bonus Action, target within 60 ft. gains 1d6 to add to one d20 test within 1 hour
+- **Bardic Inspiration (d6):** 3 uses / Long Rest — Bonus Action, target within 60 ft. gains 1d6 to add to one d20 test within 1 hour. Once within the next hour, when the creature fails a D20 Test, it can roll the Bardic Inspiration die and add the number rolled to the total, potentially turning the failure into a success.
+- **Expertise:** Double proficiency bonus on two chosen skills — Deception, Persuasion
 - **Jack of All Trades:** Add half proficiency (+1) to any ability check not already using proficiency
-- **Song of Rest (d6):** Allies regain extra HP during short rest
-- **Expertise:** Deception, Persuasion (doubled via Changeling Instincts)
-- **College of Lore — Bonus Proficiencies:** Three additional skill proficiencies (History, Insight, Perception — *confirm if different*)
-- **College of Lore — Cutting Words:** Reaction within 60 ft. when creature makes attack roll, ability check, or damage roll — expend Bardic Inspiration to subtract the roll from the result
+- **College of Lore — Bonus Proficiencies:** Three additional skill proficiencies — History, Insight, Perception
+- **College of Lore — Cutting Words:** Reaction within 60 ft. — when a creature makes a damage roll or succeeds on an ability check or attack roll, expend one Bardic Inspiration die and subtract the result from that roll, potentially turning the success into a failure
 
 ---
 
 ## Background Features — Charlatan
-- **Proficiencies:** Deception, Sleight of Hand
-- **Tool Proficiencies:** Forgery Kit
-- **Charlatan ASI:** +1/+1/+1 to three ability scores (Skilled feat)
-- **Skilled Feat:** Proficiency in any combination of three skills or tools
+- **Skill Proficiencies:** Deception, Sleight of Hand
+- **Tool Proficiency:** Forgery Kit
+- **Charlatan Ability Score Improvements:** +1 to three ability scores
+- **Origin Feat — Skilled:** Proficiency in any combination of three skills or tools of your choice. (Repeatable)
 
 ---
 
@@ -119,7 +120,7 @@
 
 ### 1st Level
 - Tasha's Hideous Laughter (Save: WIS DC 13 | 1A | 30 ft. | V,S,M | Concentration, 1 min)
-- Silvery Barbs (Reaction | 60 ft. | V | Instant)
+- Silvery Barbs *(SACoC p.38 — not 2024 PHB)* (Reaction | 60 ft. | V | Instant)
 - Cure Wounds (1A | Touch | V,S | Instant)
 - Command (Save: WIS DC 13 | 1A | 60 ft. | V | Instant)
 
@@ -133,9 +134,9 @@
 
 | Weapon | Attack | Damage | Properties |
 |---|---|---|---|
-| Crossbow, Light | +5 | 1d8+3 Piercing | Ammunition, Loading, Range (80/320), Slow, Two-Handed |
-| Dagger | +5 | 1d4+3 Piercing | Finesse, Light, Thrown, Nick, Range (20/60) |
-| Quarterstaff | +1 | 1d6-1 Bludgeoning | Versatile, Topple |
+| Crossbow, Light | +5 | 1d8+3 Piercing | Simple, Ammunition, Loading, Range (80/320), Slow, Two-Handed |
+| Dagger | +5 | 1d4+3 Piercing | Simple, Finesse, Light, Thrown, Nick, Range (20/60) |
+| Quarterstaff | +1 | 1d6-1 Bludgeoning | Simple, Versatile, Topple |
 | Unarmed Strike | +1 | 0 Bludgeoning | — |
 
 ---
@@ -170,28 +171,28 @@
 |---|---|---|---|---|
 | 44 | 41 | 0 | 34 | 0 |
 
-**Weight Carried:** 60.88 lb | **Encumbered at:** 120 lb
+**Weight Carried:** 60.88 lb | **Encumbered at:** 120 lb | **Push/Drag/Lift:** 240 lb
 
 ---
 
 ## Personality
 - **Traits:** Mischievous — enjoys messing with people for gain or entertainment. Hedonistic — enjoys all manner of pleasure, physical, mental, and emotional.
-- **Ideals:** Freedom (nobody should be bound by unjust laws); Passion (life is meaningless if you can't follow your heart)
-- **Bond:** Would do anything to assist a fellow New Olamn graduate
-- **Flaw:** Gluttony — excess sometimes drives Zero to make choices that aren't in their best interest
+- **Ideals:** Freedom (nobody should be bound by unjust laws or constraints); Passion (what point is there to life if you can't follow what makes your heart race?)
+- **Bond:** Would do anything to assist a fellow graduate of New Olamn
+- **Flaw:** Excess — sometimes Zero's gluttony gets the better of them, leading to choices that aren't in their best interest
 
 ---
 
 ## Backstory
-Zero was raised in a comfortable household by both parents, who are still alive. Has one older sibling named Alpha, with whom contact has been lost. Dad ran a business and hoped Zero would follow; mom encouraged Zero to follow their heart — which led them to New Olamn's bardic college in Waterdeep. Zero spent years running cons before and possibly during their studies, becoming a Charlatan out of necessity and eventually preference. Affiliated with and loyal to fellow New Olamn alumni.
+Zero was raised in a comfortable household by both parents, who are still alive and well. Has one older sibling named Alpha, with whom contact has been lost. Dad ran a business and hoped Zero would follow; mom encouraged Zero to follow their heart — which led them to New Olamn's bardic college in Waterdeep. Zero became a charlatan because they often got in trouble and learned to talk their way out of it. They spent years running cons before and during their studies. Affiliated with and deeply loyal to fellow New Olamn alumni.
 
 ---
 
 ## Level Up Tracker
 | Level | HP Total | New Features / Spells |
 |---|---|---|
-| 1 | — | Bardic Inspiration, Spellcasting, Spellcasting |
-| 2 | — | Jack of All Trades, Song of Rest, Expertise |
+| 1 | — | Bardic Inspiration, Spellcasting |
+| 2 | — | Expertise, Jack of All Trades |
 | 3 | 24 | College of Lore (Bonus Proficiencies, Cutting Words), 2nd level spells |
 | 4 | | |
 | 5 | | |
