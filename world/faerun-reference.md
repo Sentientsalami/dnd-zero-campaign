@@ -57,7 +57,7 @@ A stretch of coastline along the western edge of Faerûn, running roughly from L
 | Lords' Alliance | Waterdeep-led | Coalition of northern cities |
 | Red Wizards of Thay | Thay (east) | Powerful, dangerous, seek to dominate magic |
 | Arcane Brotherhood | Luskan | Powerful wizard organization, controlling Luskan |
-| The Cult of the Dragon | Distributed | Seek to create dracoliches and draconic undead |
+| The Cult of the Dragon | Distributed | Originally sought to create dracoliches; by ~1489 DR shifted goals toward summoning Tiamat. Splintered and weakened after the Tyranny of Dragons events but still active |
 
 ---
 

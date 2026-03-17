@@ -76,7 +76,7 @@
 
 ## Proficiencies & Languages
 - **Armor:** Light armor
-- **Weapons:** Simple weapons
+- **Weapons:** Simple weapons, Hand Crossbows, Longswords, Rapiers, Shortswords
 - **Tools:** Fiddle, Flute, Hand Drum, Forgery Kit
 - **Languages:** Common, Dwarvish, Elvish
 
