@@ -86,7 +86,7 @@
 - **Creature Type:** Fey
 - **Size:** Medium or Small (chosen at character creation)
 - **Speed:** 30 ft.
-- **Changeling Instincts:** Proficiency in two skills of your choice: Deception and Persuasion
+- **Changeling Instincts:** Proficiency in two skills of your choice: Insight and Intimidation
 - **Shape-Shifter:** As an action, alter appearance and voice. You determine the specifics, including coloration, hair, height, weight, and sex. Can shift size between Medium and Small. Can appear as a member of another playable species, though none of your game statistics change. Cannot duplicate someone you've never seen. Doesn't change clothing or equipment. Revert with an action.
 - **Languages:** Common plus two additional languages
 
@@ -94,10 +94,10 @@
 
 ## Class Features — Bard (Level 3)
 - **Spellcasting:** Charisma-based | Spell Save DC 13 | Spell Attack +5 | Focus: Musical Instrument
-- **Bardic Inspiration (d6):** 3 uses / Long Rest — Bonus Action, target within 60 ft. gains 1d6 to add to one d20 test within 1 hour. Once within the next hour, when the creature fails a D20 Test, it can roll the Bardic Inspiration die and add the number rolled to the total, potentially turning the failure into a success.
+- **Bardic Inspiration (d6):** 3 uses / Long Rest — Bonus Action, target within 60 ft. gains one Bardic Inspiration die. Once within the next hour, when the creature fails a D20 Test, it can roll the die and add the result to the d20, potentially turning the failure into a success. Expended when rolled.
 - **Expertise:** Double proficiency bonus on two chosen skills — Deception, Persuasion
 - **Jack of All Trades:** Add half proficiency (+1) to any ability check not already using proficiency
-- **College of Lore — Bonus Proficiencies:** Three additional skill proficiencies — History, Insight, Perception
+- **College of Lore — Bonus Proficiencies:** Three additional skill proficiencies — Investigation, Athletics, Arcana
 - **College of Lore — Cutting Words:** Reaction within 60 ft. — when a creature makes a damage roll or succeeds on an ability check or attack roll, expend one Bardic Inspiration die and subtract the result from that roll, potentially turning the success into a failure
 
 ---
@@ -169,7 +169,7 @@
 ### Currency
 | CP | SP | EP | GP | PP |
 |---|---|---|---|---|
-| 44 | 41 | 0 | 34 | 0 |
+| 41 | 41 | 0 | 47 | 0 |
 
 **Weight Carried:** 60.88 lb | **Encumbered at:** 120 lb | **Push/Drag/Lift:** 240 lb
 
