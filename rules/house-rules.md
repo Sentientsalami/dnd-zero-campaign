@@ -51,7 +51,7 @@
 
 | Ruling | Decision | Session Established |
 |---|---|---|
-| <!-- situation --> | <!-- how we handle it --> | <!-- # --> |
+| Changeling Shape-Shifter — Deception Advantage | When Zero's active physical disguise (via Shape-Shifter) is directly load-bearing to the specific lie being told, they gain Advantage on the Deception check. Does not apply to all Deception rolls — only when the physical form is doing meaningful work in the deception. | Session 1 |
 
 ---
 
