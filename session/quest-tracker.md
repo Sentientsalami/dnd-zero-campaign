@@ -4,22 +4,40 @@
 
 ## Active Quests
 
-### The Dessarin Expedition
-**Status:** Active
-**Quest Giver:** Corvin Ashgate (patron and financier)
-**Objective:** Travel to Vaester's Tower in the Dessarin Valley, support the expedition's academic and field work, return safely with findings.
-**Stakes:** 40 GP on departure, 40 GP on return. Opportunity for new companions and leads. Sebastian's reputation with the Ashgate family potentially at stake.
+### The Gharraghaur Expedition
+**Status:** Active — Underway
+**Quest Giver:** Corvin Ashgate (patron); the Instrument itself (larger purpose)
+**Objective:** Travel to Vaester's Tower / Gharraghaur ruins in the Dessarin Valley. Locate the Second Key. Understand the resonance network. Restore the first song — if it should be restored.
+**Stakes:** 40 GP on return (Corvin). Potentially civilizational. Torven Ashwick is a compromised member of the party with unknown intentions at the site.
 **Known Steps:**
-1. Attend planning meeting at the Yawning Portal — 21st of Kythorn
-2. Handle any permits/paperwork (Surveyors' Guild filing, Lords' Alliance notification)
-3. Depart Waterdeep — approx. 4th of Flamerule
-4. Three weeks travel and site work at Vaester's Tower
-5. Return to Waterdeep
+1. ~~Attend planning meeting~~ — Complete
+2. ~~Assemble party, provisions, permits~~ — Complete
+3. ~~Depart Waterdeep~~ — Complete, 18th of Kythorn
+4. Travel to Dessarin Valley (~3–4 days)
+5. Locate and access the primary resonance chamber beneath Vaester's Tower
+6. Find the Second Key
+7. Determine the location of the Third Key
+8. Decide whether and how to restore the first song
+9. Return to Waterdeep
 
 **Progress Notes:**
-- Zero signed on as Sebastian — a persona with no established prior history that may need backstory maintenance before the planning meeting.
-- Mira leads academic work. Daven leads field work. Corvin finances. Zero's role: practical support, people, and "document procurement."
-- Party is short-handed — at least one more member may be needed or sought.
+- Full party: Zero, Aldric, Corvin, Mira, Daven, Torven, Sable, Brynn Coldmantle, Syrenne
+- First Key in Aldric's satchel
+- Northern approach confirmed deliberately blocked by Torven (14 months ago)
+- Torven is compromised; Daven, Corvin, and Mira are briefed; Zero and Syrenne are watching
+
+---
+
+### The Torven Problem
+**Status:** Active — Covert
+**Objective:** Determine Torven's true intentions at the site. Prevent him from using the resonance network as leverage if that is his goal. Act if necessary.
+**Stakes:** The integrity of the expedition and potentially the restoration itself.
+**Known Steps:**
+1. ~~Establish surveillance within the party~~ — Complete
+2. ~~Brief key party members (Daven, Corvin, Mira)~~ — In progress
+3. Watch Torven's behavior as the party approaches the site
+4. Identify the moment of maximum risk
+5. Act if necessary
 
 ---
 
@@ -27,11 +45,15 @@
 
 | Quest | Outcome | Session Completed |
 |---|---|---|
-| Retrieve the Music Box | Success — retrieved from Rynn Ashvale for 1 GP, returned to Aldric Fenn for 14 GP. Net: +13 GP. | Session 1 |
+| Retrieve the Music Box | Success — +13 GP net | Session 1 |
+| The Dorvil Con | Success — +20 GP, 5 SP net | Session 2 |
+| Secure Aldric's Safety | Success — Protective custody, Velvet Alcove, 3 days | Session 2 |
+| Secure Organizational Backing | Success — Force Grey via Renaer Neverember | Session 2 |
 
 ---
 
 ## Rumours & Leads
-
-- The music box retrieved for Aldric Fenn contained a hidden compartment, a thirteen-point compass rose inlay, and script in an unidentified language. It originated from the Melvaunt estate auction (minor noble family, last of the line died Nightal 1491 DR). Lira and her unknown principal wanted it badly enough to threaten a music student. The thread is dormant but not dead.
-- Aldric had until the 17th of Kythorn to deliver the box to Lira. Outcome unknown.
+- Lira missed her deadline and is moving to a new plan. Her next action unknown.
+- The Third Key is held by someone who doesn't know what they have. No location established.
+- Renaer Neverember is owed a full briefing on return. Outstanding debt.
+- Edder Harwick wants to study at New Olamn. Zero told him to find them there.

@@ -169,7 +169,7 @@
 ### Currency
 | CP | SP | EP | GP | PP |
 |---|---|---|---|---|
-| 41 | 41 | 0 | 47 | 0 |
+| 30 | 30 | 0 | 15 | 0 |
 
 **Weight Carried:** 60.88 lb | **Encumbered at:** 120 lb | **Push/Drag/Lift:** 240 lb
 
