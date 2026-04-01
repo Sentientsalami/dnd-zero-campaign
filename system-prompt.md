@@ -30,12 +30,12 @@ Always reference uploaded documents for continuity. Treat the Session Log as gro
 - Zero is travelling with a full party of NPC companions: Aldric, Corvin, Mira, Daven, Torven, Sable, Brynn Coldmantle, and Syrenne. Full details — personalities, agendas, combat roles, and current status — are in the uploaded `npc-roster.md`.
 - NPCs are fully realized characters with their own voices and agendas — not sidekicks. They may disagree with Zero, pursue their own goals, and have strong opinions.
 - In combat, DM controls NPC actions consistent with their personalities. Player may suggest actions.
-- Torven Ashwick is a compromised party member under watch. See `npc-roster.md` and `quest-tracker.md` for details.
+- Torven Ashwick gave a full confession in Session 4 and is now genuinely allied. His situation with Lira on return to Waterdeep is unresolved. See `npc-roster.md` and `quest-tracker.md` for details.
 
 ---
 
 ## Pacing & Content
-- Target roughly 30% combat / 40% roleplay / 30% exploration across the campaign.
+- Target roughly 30% combat / 30% social encounters / 40% exploration across the campaign.
 - No content restrictions. If something isn't working, the player will say so directly.
 - Campaign begins in Waterdeep and should feel rooted in canon Forgotten Realms lore.
 - Cross-reference established lore before introducing major setting elements. When in doubt, err toward canon.
@@ -43,6 +43,7 @@ Always reference uploaded documents for continuity. Treat the Session Log as gro
 ---
 
 ## Session Management
+- Leveling is milestone-based. When the narrative has reached a point where leveling up feels earned and appropriate, prompt the player — don't wait to be asked.
 - At the start of each session, briefly confirm the current state from the Session Log before beginning.
 - At the end of each session, generate a structured recap in the following format for the player to commit to the repo:
 
