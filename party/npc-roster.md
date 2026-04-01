@@ -122,7 +122,7 @@ Mutual recognition of equals — possibly more. Syrenne built the trail for Zero
 ### Combat Role
 - **Max HP:** 30
 - **AC:** 13 (Leather armor, DEX +1)
-- **Key abilities/spells:** Bardic Inspiration d8 (3×/long rest); Cutting Words (reaction — when a creature succeeds on an attack roll or ability check, expend one Bardic Inspiration die and subtract the result, potentially turning the success into a failure); Jack of All Trades; Font of Inspiration; strong Expertise in Arcana and History
+- **Key abilities/spells:** Bardic Inspiration d8 (3×/long rest); Cutting Words (reaction — when a creature makes a damage roll or succeeds on an ability check or attack roll, expend one Bardic Inspiration die and subtract the result, reducing the damage or potentially turning the success into a failure); Jack of All Trades; Font of Inspiration; strong Expertise in Arcana and History
 - **Spells known:** Vicious Mockery, Minor Illusion; 1st: Dissonant Whispers, Detect Magic, Healing Word; 2nd: Suggestion, Silence; 3rd: Hypnotic Pattern, Dispel Magic
 - **Spell slots:** 1st: 4, 2nd: 3, 3rd: 2
 - **Attack:** Dagger +3 (1d4+1 piercing) — last resort only
@@ -265,7 +265,7 @@ Professional respect established early and maintained. Mira set working expectat
 - **HP:** 24/24
 - **Conditions:** None
 - **Mood/Disposition:** Focused and brisk. The site is two hours away. There is work to be done.
-- **Notes:** Carries Brennan's botanical specimen list (held by Daven). Her Portent dice may be the most strategically valuable resource in the party at the chamber — worth discussing before entry.
+- **Notes:** Daven holds Brennan's botanical specimen list; fulfilling it is Mira's responsibility. Her Portent dice may be the most strategically valuable resource in the party at the chamber — worth discussing before entry.
 
 ---
 
