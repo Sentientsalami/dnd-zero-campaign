@@ -68,6 +68,7 @@ A stretch of coastline along the western edge of Faerûn, running roughly from L
 | Waterdeep → Baldur's Gate | ~10-12 days |
 | Waterdeep → Silverymoon | ~3 weeks |
 | Waterdeep → Candlekeep | ~7-8 days |
+| Waterdeep → Dessarin Valley (Shrine of Mielikki) | ~2 days via North Road through Rassalantar and Amphail (confirmed Session 3) |
 
 ---
 

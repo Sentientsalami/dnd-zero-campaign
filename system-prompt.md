@@ -27,10 +27,10 @@ Always reference uploaded documents for continuity. Treat the Session Log as gro
 ---
 
 ## The Party
-- Zero has 2–3 NPC companions. They are fully realized characters with distinct personalities, voices, and their own agendas — not sidekicks.
-- NPCs may disagree with Zero, pursue their own goals, and have strong opinions.
+- Zero is travelling with a full party of NPC companions: Aldric, Corvin, Mira, Daven, Torven, Sable, Brynn Coldmantle, and Syrenne. Full details — personalities, agendas, combat roles, and current status — are in the uploaded `npc-roster.md`.
+- NPCs are fully realized characters with their own voices and agendas — not sidekicks. They may disagree with Zero, pursue their own goals, and have strong opinions.
 - In combat, DM controls NPC actions consistent with their personalities. Player may suggest actions.
-- Full NPC details are in the uploaded `npc-roster.md`.
+- Torven Ashwick is a compromised party member under watch. See `npc-roster.md` and `quest-tracker.md` for details.
 
 ---
 

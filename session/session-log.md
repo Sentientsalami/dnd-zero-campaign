@@ -4,9 +4,9 @@
 
 ## Current State *(update this block every session)*
 
-**Last Updated:** Session 2 — 15th–18th of Kythorn, 1492 DR
-**Current Location:** Waterdeep North Gate (departing for the Dessarin Valley)
-**In-Game Date:** 18th of Kythorn, 1492 DR (morning)
+**Last Updated:** Session 3 — 18th–19th of Kythorn, 1492 DR
+**Current Location:** Shrine of Mielikki, Dessarin Valley (camped)
+**In-Game Date:** 19th of Kythorn, 1492 DR (evening)
 
 ### Party Status
 | Character | HP | Spell Slots | Status Notes |
@@ -14,19 +14,21 @@
 | Zero | 24/24 | 1st: 4/4, 2nd: 2/2 | Full resources. No combat this session. |
 
 ### Resources
-- **Gold (personal):** 15 GP, 30 SP, 30 CP
-- **Expedition Fund:** 65 GP (of Corvin's 150 GP authorization)
+- **Gold (personal):** 17 GP, 30 SP, 28 CP
+- **Expedition Fund:** 51 GP (of Corvin's 150 GP authorization)
 - **Consumables:** None
 - **Bardic Inspiration:** 3/3
 
 ### Active Plot Threads
-1. The Gharraghaur Expedition — Full party assembled, provisions packed, permits filed as Academic Survey. Departing Waterdeep 18th of Kythorn for Vaester's Tower in the Dessarin Valley. Destination now confirmed as ruins of Netherese enclave Gharraghaur.
-2. The Netherese Resonance Instrument — Opened. First Key (dark metal disc, compass rose inlay) recovered. Three Keys total required to restore "what was unmade" — the first song, silenced before the first civilization. Second Key believed to be at Vaester's Tower site. Third Key held by someone who doesn't know what they have.
-3. Torven Ashwick — Credible intelligence suggests Torven is Lira's principal, seeking to use the resonance network as leverage rather than restore it. He is travelling with the party unaware he is suspected. Daven and Corvin are briefed. Mira is being briefed by Daven. Zero and Syrenne are watching.
-4. Lira — Missed her deadline. Now moving without the box. Sent at least one surveillance asset after Zero on the 17th (lost). Threat status: active but currently behind.
+1. The Gharraghaur Expedition — Party camped at the Mielikki shrine, Dessarin Valley. Secondary entrance to the resonance chamber located by Sable: cave mouth on the western face below Vaester's Tower foundations. Departure for the site at first light, approximately two hours' travel.
+2. The Netherese Resonance Instrument — First Key and Instrument in Aldric's satchel. Second Key believed to be in the resonance chamber. Third Key location unknown. The forester at the Mielikki shrine warns: the chamber responds to intention; don't touch anything until the Instrument says to; bring good light.
+3. Torven Ashwick — Travelling with the party, unaware he is suspected. Identified the thessalar correctly from Netherese sources, displaying genuine scholarly wonder. Zero has recalibrated slightly positive — watchfulness continues. Torven knows Zero is a changeling; confirmed he read Zero's direct confrontation about the word "leverage." His stated intention: understand the silencing before anyone acts.
+4. The Thessalar — Followed the party from Amphail over two days. Revealed itself at the valley road treeline and acknowledged Zero specifically — lowered its head in acknowledgment before withdrawing. Currently watching the camp. The Mielikki forester confirms: it hasn't ranged this far from the site in eleven years. The chamber will know when the party arrives.
+5. Lira — No new developments this session. Still active and adapting. Threat status: background.
+6. Aldric Fenn — Decided to pursue the bardic track at New Olamn after the expedition. Zero's mentorship directly precipitated this. A meaningful development.
 
 ### Last Session Ended
-> Eight people walked out of a North Ward townhouse into the Waterdeep morning and pointed themselves at the Dessarin Valley. The coin is in the air.
+> The party camps at the Mielikki shrine on the 19th of Kythorn, the tower less than two hours ahead. The thessalar watches from the dark. Sable has found the way in. Morning will answer a great many questions.
 
 ---
 
@@ -115,6 +117,7 @@
 - Brennan — Gnome apothecary. Precise, professional. Wants Dessarin Valley botanical specimens to Mira's specification.
 - Harwick — Former soldier turned equipment merchant. Doesn't negotiate on price. Has a son named Edder (16) who wants to be a bard.
 - Edder Harwick — 16, gangly, dark-haired. Lute player of genuine potential, held back by self-doubt. Zero broke through it. Told to find Zero at New Olamn.
+- Renaer Neverember — Mid-twenties, tousled dark hair, sharp eyes behind an easy manner. Son of former Open Lord. Informal liaison between private citizens and Force Grey. Provided plainclothes protection for Torven's house, a surveillance asset (Petra) on Zero, and organizational support in exchange for a full briefing on return. Issued a pewter emergency token for Force Grey contact via any Castle Ward Watch officer.
 - Cassia — Half-elf jeweler. Sharp-tongued, excellent company, strong opinions. Two-night acquaintance.
 - Vanna — Proprietress of The Velvet Alcove. Runs a tight, discreet house. Owes Zero a social debt; repaid with Aldric's three-day sanctuary.
 - Ossian — Corvin's Calishite manservant. Unflappable, indispensable, anticipates everything.
@@ -144,6 +147,66 @@
 - Brennan the apothecary expects a botanical specimen collection from Mira per his specification list. Daven has the list.
 - The third Key's location and holder remain completely unknown.
 - Zero's personal funds are relatively low (15 GP). Expedition fund has 65 GP remaining. The return payment of 40 GP from Corvin is still owed on completion.
+
+---
+
+### Session 3 — 18th–19th of Kythorn, 1492 DR
+**Title:** The Threshold Keeper
+**Location(s):** The North Road, Rassalantar (The Sleeping Griffon), Amphail (checkpoint; The Horses and the Hills), Stone Bridge, Dessarin Valley road, Shrine of Mielikki
+
+**Summary:**
+- Party departed Waterdeep on the 18th. Zero opened the road with fiddle, drawing the column together. Conversations established: Corvin on inherited duty and his grandfather's deliberate bequest; Mira setting working expectations around information-sharing; Zero and Syrenne exchanging tactical profiles of Torven.
+- At Rassalantar's Sleeping Griffon, Zero gathered road intelligence: Sergeant Brandart at the Amphail checkpoint (young, Helm-devout, thorough, uncorruptable, counts bodies against permits); trade coffle attack past the Stone Bridge — two dead, something large and coordinated from the eastern wood; Shrine of Mielikki recommended as the best source of current valley intelligence.
+- Amphail checkpoint cleared cleanly. Syrenne turned invisible; Brandart counted eight against the permit, noted the empty space beside Zero, and waved the party through without comment.
+- Evening at The Horses and the Hills, Amphail. Zero negotiated entertainment for reduced lodging — 14 GP for nine people. Zero and Aldric performed together, culminating in Aldric debuting an unfinished original piece with Zero improvising the second voice in real time. A significant moment for both musicians.
+- Zero mentored Aldric directly: the Weave reflects what you feed it. Aldric decided to pursue the bardic track at New Olamn after the expedition. Welcome to the fold.
+- Zero spent the night with Tave, a Sembian writer traveling north to document Dessarin Valley settlements. Temporary. Agreeable.
+- Day two on the road: Daven reported Sable had found thessalar tracks running parallel to the party since Amphail. Party assisted two brothers (Aldous and Perrin) with a wagon stuck in a drainage ditch; their companion Marta confirmed the coffle attack and specifically recommended the Mielikki shrine — noting that foresters there tend to talk to bards.
+- Sable dispatched to double back and investigate the creature after the Stone Bridge, while the party continued to the shrine. Standard split endorsed by Zero.
+- At the valley road, the thessalar revealed itself at the treeline. Enormous, four-legged, pre-bear in lineage. Made direct eye contact with Zero, held it, then lowered its head in acknowledgment before withdrawing. The birds went silent and came back.
+- Torven identified the creature as a Thessalar — pre-Netherese threshold keeper, drawn by resonance affinity, not created but attracted. Genuine scholarly wonder, unguarded. Zero recalibrated opinion of Torven slightly positive.
+- Zero confronted Torven directly: named all three aliases, then asked why he really joined and whether he would do what is right or use the knowledge as leverage. Torven's Deception lost the contest. He acknowledged the letter, stated his intention has changed, and accepted that his actions will tell the party what they need to know. He cannot yet be trusted; he can be watched.
+- At the Mielikki shrine, a forester (unnamed) confirmed: the thessalar hasn't ranged past the Stone Bridge in eleven years; it acknowledged Zero specifically after two days of assessment; the secondary entrance is a cave mouth on the western face below the tower foundations; the chamber responds to intention; don't touch anything until the Instrument says to; bring good light. Two of seven parties she's sent down that road didn't come back.
+- Sable returned after dark: she found the entrance. Party camps at the shrine. First light departure.
+
+**Key Decisions Made:**
+- Zero confronted Torven directly and named themselves — a calculated move to establish terms before the site. Torven accepted the terms. The performance dropped; what remained was complicated but not monstrous.
+- Zero chose to pursue both objectives simultaneously at the Stone Bridge: Sable investigates the creature while the party continues. Information before the chamber.
+- Zero mentored Aldric toward the bardic track — a commitment with long-term consequences for a New Olamn alumnus who now owes Zero considerably more than fourteen gold.
+- Zero met the thessalar's gaze and let fate decide. Tymora's coin landed face-up.
+
+**NPCs Met:**
+- Barkeep (unnamed) — The Sleeping Griffon, Rassalantar. Broad woman, Neverwinter accent. Practical, well-informed, charges fairly.
+- Sergeant Brandart — Young (mid-twenties), dark-haired, Helm-devout. Transferred from Waterdeep City Watch six weeks ago. Thorough, uncorruptable, counts everything. Noted the empty space beside Zero and let it go.
+- Cort — Tethyrian innkeeper, The Horses and the Hills, Amphail. Broad, magnificent grey moustache. Fair dealer, genuine appreciation for good music.
+- Aldous — Local farmer/traveler, stuck wagon. Broad jaw, stubborn. Grateful.
+- Perrin — Aldous's brother. More forthcoming with bad road news than Aldous wanted.
+- Marta — Perrin or Aldous's wife (unclear). Sharp, practical, reliable judge of people. Recommended the Mielikki shrine unprompted and knew foresters talk to bards.
+- Tave — Sembian writer, dark-haired, ink-stained fingers, approximately 5'2". Clever eyes, Sembian accent. Traveling north documenting Dessarin Valley settlements. Temporary. Agreeable. Writing about what Aldric's slow piece was.
+- The forester (unnamed) — Mielikki shrine, Dessarin Valley. Forties, weathered, longbow. Knows the thessalar by sight. Briefed the party on the secondary entrance and the chamber's nature. Has been watching the valley for twenty years.
+
+**Loot / Rewards:**
+- 14 GP spent from expedition fund (lodging and meals, The Horses and the Hills — discounted from 18 GP via performance)
+- Expedition fund: 51 GP remaining
+- Intelligence: Sergeant Brandart profile — Helm-devout, transferred from Waterdeep Watch, thorough and uncorruptable, satisfied by correct paperwork
+- Intelligence: Secondary entrance to Gharraghaur — cave mouth, western face, below Vaester's Tower foundations. Marked. Sable has confirmed its location.
+- Intelligence: The thessalar tracks resonance affinity. It has not ranged past the Stone Bridge in eleven years. It acknowledged Zero after two days of assessment. The chamber will know when the party arrives.
+- Intelligence: Chamber protocol — bring good light; don't touch anything until the Instrument says to; the site responds to intention.
+- Intelligence: Torven's stated revised intention — understand the silencing before anyone acts. Unverified but unperformed.
+
+**Notes for Next Session:**
+- First light departure from the shrine. Approximately two hours to Vaester's Tower.
+- Secondary entrance: cave mouth, western face, below tower foundations. Sable leads.
+- The forester's warning: the chamber responds to intention. The site will sort out what the thessalar started.
+- Syrenne and Torven have still not spoken properly since the doorstep recognition. That conversation is overdue and increasingly pressurized.
+- Torven knows Zero is a changeling, knows Zero read the letter, and has accepted he is being watched. His behavior at the site is the test.
+- Corvin has asked Zero to help him make the right choice. That promise is live.
+- The thessalar is watching the camp. It will know when the party enters the site.
+- Aldric is carrying the First Key and the Instrument. Brynn stays close.
+- Lira is still out there. No new developments this session — she hasn't forgotten.
+- Renaer Neverember is still owed a full briefing on return.
+- Edder Harwick — told to find Zero at New Olamn. Long thread, still live.
+- Tave is somewhere on the valley road heading north. A writer documenting settlements who spent an evening with a changeling bard and watched something real happen at a hearthside. She said she'd write about it.
 
 ---
 <!-- Duplicate the Session entry block above for each new session -->
