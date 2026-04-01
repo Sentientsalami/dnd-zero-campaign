@@ -4,9 +4,9 @@
 
 ## Current State *(update this block every session)*
 
-**Last Updated:** Session 3 — 18th–19th of Kythorn, 1492 DR
-**Current Location:** Shrine of Mielikki, Dessarin Valley (camped)
-**In-Game Date:** 19th of Kythorn, 1492 DR (evening)
+**Last Updated:** Session 4 — 20th of Kythorn, 1492 DR
+**Current Location:** Chamber of Gharraghaur, beneath Vaester's Tower, Dessarin Valley (departing at first light)
+**In-Game Date:** 20th of Kythorn, 1492 DR (dawn)
 
 ### Party Status
 | Character | HP | Spell Slots | Status Notes |
@@ -15,20 +15,21 @@
 
 ### Resources
 - **Gold (personal):** 17 GP, 30 SP, 28 CP
-- **Expedition Fund:** 51 GP (of Corvin's 150 GP authorization)
-- **Consumables:** None
+- **Expedition Fund:** 51 GP (no expenditure this session)
 - **Bardic Inspiration:** 3/3
+- **Keys:** First Key and Second Key in Aldric's satchel, with the Instrument
 
 ### Active Plot Threads
-1. The Gharraghaur Expedition — Party camped at the Mielikki shrine, Dessarin Valley. Secondary entrance to the resonance chamber located by Sable: cave mouth on the western face below Vaester's Tower foundations. Departure for the site at first light, approximately two hours' travel.
-2. The Netherese Resonance Instrument — First Key and Instrument in Aldric's satchel. Second Key believed to be in the resonance chamber. Third Key location unknown. The forester at the Mielikki shrine warns: the chamber responds to intention; don't touch anything until the Instrument says to; bring good light.
-3. Torven Ashwick — Travelling with the party, aware he is suspected and being watched. Identified the thessalar correctly from Netherese sources, displaying genuine scholarly wonder. Zero has recalibrated slightly positive — watchfulness continues. Torven knows Zero is a changeling; confirmed he read Zero's direct confrontation about the word "leverage." His stated intention: understand the silencing before anyone acts.
-4. The Thessalar — Followed the party from Amphail over two days. Revealed itself at the valley road treeline and acknowledged Zero specifically — lowered its head in acknowledgment before withdrawing. Currently watching the camp. The Mielikki forester confirms: it hasn't ranged this far from the site in eleven years. The chamber will know when the party arrives.
-5. Lira — No new developments this session. Still active and adapting. Threat status: background.
-6. Aldric Fenn — Decided to pursue the bardic track at New Olamn after the expedition. Zero's mentorship directly precipitated this. A meaningful development.
+1. **The Gharraghaur Expedition** — Chamber accessed. Second Key acquired. Third Key location confirmed: beneath New Olamn, Sea Ward, Waterdeep. Party departs for Waterdeep at first light, 20th of Kythorn.
+2. **The Netherese Resonance Instrument** — First and Second Keys in Aldric's satchel. Third Key under New Olamn, held by someone who doesn't know what they have. The Instrument has a fourth function beyond the three Keys — requires a player, not a mechanism. The plinth in the chamber has a third depression sized for the Instrument itself.
+3. **The Listener** — A vast ancient presence from outside the shaped world heard the song's partial restoration. It receded satisfied — moved, not hostile — but it is patient and will resolve its attention into something with direction if the Third Key is not placed in time. The urgency is real but not immediate.
+4. **Torven Ashwick** — Full confession given in the chamber: his goal was academic primacy and control of the primary account, not political power. Cultivated Lira for three years; blocked the northern approach; sent a surveillance asset Zero didn't detect. Zero extended grace and called him old friend. Torven is now genuinely allied. Unresolved: Lira's expectations of him on return.
+5. **The Pool** — A lower chamber beneath Gharraghaur contains a still underground pool and an ancient presence, changeling in nature, that has been waiting. It confirmed the listener, the urgency of the Third Key, and the instrument's fourth function. Zero heard the shape of the song in the dark. This chamber has not been shown to the rest of the party.
+6. **Lira** — No new developments. Still active and adapting. Torven's full confession implicates the structure of her operation — she was working as his mechanism, not his equal. Her expectations on return are unknown.
+7. **Aldric Fenn** — Carrying First and Second Keys with the Instrument. Committed to the bardic track at New Olamn. Has documented his experience of the chamber in detail.
 
 ### Last Session Ended
-> The party camps at the Mielikki shrine on the 19th of Kythorn, the tower less than two hours ahead. The thessalar watches from the dark. Sable has found the way in. Morning will answer a great many questions.
+> First light, 20th of Kythorn. The chamber is warm and lit and the party is ready to move. Two Keys in the satchel, the song half-remembered, and the road back to Waterdeep ahead. The Third Key is waiting under New Olamn, and something vast and patient is waiting for Zero to reach it first.
 
 ---
 
@@ -207,6 +208,57 @@
 - Renaer Neverember is still owed a full briefing on return.
 - Edder Harwick — told to find Zero at New Olamn. Long thread, still live.
 - Tave is somewhere on the valley road heading north. A writer documenting settlements who spent an evening with a changeling bard and watched something real happen at a hearthside. She said she'd write about it.
+
+---
+
+### Session 4 — 20th of Kythorn, 1492 DR
+**Title:** When the Player Returns
+**Location(s):** Shrine of Mielikki (departure), Vaester's Tower approach, Chamber of Gharraghaur, the Pool (lower chamber)
+
+**Summary:**
+- Departed the Mielikki shrine at first light. En route to the tower, Corvin revealed a sealed letter from his grandfather — held until he could see the tower, per instructions. The seal bore both the Ashgate family crest and a thirteen-point compass rose. His grandfather, Aldric Ashgate, was a member of the first expedition to reach the chamber forty years ago; the party chose to leave the Keys and withdraw, afraid not of the song but of themselves. The letter instructed Corvin to make the choice as himself, not as an heir.
+- Party approached Vaester's Tower. Sable and Mira cleared the approach — physically clean, magically active but not hostile. Mira's assessment: not a trap. The quality of the magic was anticipation.
+- Entered the cave mouth on the western face, descended to the Chamber of Gharraghaur. The chamber responded to Zero's presence at the threshold — light brightening, the Instrument resonating in Aldric's satchel. The chamber woke on arrival.
+- Mira identified the wall section documenting the silencing: the song was not silenced because it was dangerous, but because something heard it. Something drawn from outside the shaped world. The carved walls revealed that the silencing was performed by changelings — a faceless figure at the centre of the act, arms raised, surrounded by others in attitudes of grief and dissent. The silencing was not unanimous. Beneath the figure, in clear Loross script: *When the player returns.* Syrenne's assessment: "You weren't recruited for this expedition. You were convened."
+- Torven gave his full confession in the chamber. His actual goal: academic primacy — control of the primary account of the network's rediscovery, not political power or money. He cultivated Lira for three years, blocked the northern approach fourteen months ago, and sent a surveillance asset after the party on departure morning that Zero didn't detect. Zero extended their hand, helped him up, and called him old friend. Torven accepted. He is now genuinely allied.
+- Zero played. The chamber woke fully — the Second Key manifested in the empty depression on the plinth, drawn by the music rather than placed. A vast ancient presence from outside the shaped world listened, was moved, and receded satisfied. The threat is not gone — it is patient — but it stepped back.
+- Mira found a map carved on the far wall: three resonance points on the Sword Coast. The Third Key's location: beneath New Olamn, Sea Ward, Waterdeep.
+- Zero explored the chamber alone. Found the handprints on the far wall — generations of visitors pressing their palm to the stone — and added their own. Discovered a hidden passage in the northeast, descending to a lower chamber.
+- Descended with Sable to the Pool: a still underground pool lit from below in blue-white light, a chair worn smooth by centuries of use, and an ancient presence — changeling in nature, the memory of many faces blurred into one. It confirmed: the listener felt the partial restoration and is patient but will eventually resolve its attention into something with direction; the Third Key must be placed before that happens; the Instrument has a fourth function that requires not a Key but a player. Zero listened in the dark and heard the shape of the song.
+- The party spent the night in the chamber. Mira and Torven worked the walls together. Aldric documented everything. Corvin sat with his grandfather's letter in the room his grandfather was too afraid to use and made his peace. First light, 20th of Kythorn. Ready to move.
+
+**Key Decisions Made:**
+- Zero accepted Torven's full confession and extended grace rather than judgment — calling him "old friend" and meaning it.
+- Zero followed the hidden passage with Sable rather than alerting the full party; the pool chamber remains Zero's alone for now.
+- Zero listened rather than questioned in the pool chamber, and heard the song as a result.
+- Zero pressed their hand among the handprints on the wall. A simple act. An irreversible one.
+
+**NPCs Met:**
+- The Presence (pool, lower chamber) — Ancient, changeling in nature, the accumulated memory of many faces. Has been waiting at this site for a very long time. Confirmed the listener, the urgency of the Third Key, and the Instrument's fourth function. Thanked Zero. Not a threat.
+- Aldric Ashgate (referenced, deceased) — Corvin's grandfather. Member of the first expedition forty years ago. Chose to leave the Keys in place out of fear. Left Corvin a letter, a map, and the compass rose seal. Knew what Gharraghaur was and wanted Corvin to be there.
+
+**Loot / Rewards:**
+- **Second Key** — Dark metal disc, thirteen-point compass rose inlay, pre-Fall Netherese manufacture. Manifested in the plinth's right depression in response to Zero's playing. Now in Aldric's satchel alongside the First Key and the Instrument.
+- Intelligence: Third Key location confirmed — beneath New Olamn, Sea Ward, Waterdeep. Held by someone who doesn't know what they have.
+- Intelligence: The silencing was performed by changelings, not by a political coalition. It was not unanimous. It was always intended to be temporary — conditional on the right player returning.
+- Intelligence: The plinth has a third depression, sized for the Instrument itself.
+- Intelligence: The Instrument has a fourth function beyond unlocking, opening, and closing. It requires a player, not a Key.
+- Intelligence: The listener felt the song's partial restoration. It is patient. Time is real but not immediate.
+- Intelligence: Corvin's grandfather was on the first expedition. Syrenne had records of it — she identified two of the four members; Aldric Ashgate was not one she had named.
+- Intelligence: Torven sent a surveillance asset after the party on departure morning that Zero did not detect. Filed for future reference.
+
+**Notes for Next Session:**
+- The road back to Waterdeep. Travel time approximately two days on the return. The coffle attack past the Stone Bridge is still an active regional threat — relevant on the return journey.
+- The Third Key is under New Olamn. Zero has alumni standing. This should be the most natural access point the party has encountered — and the most personally weighted.
+- Torven is now genuinely allied, but Lira still has expectations of him. His return to Waterdeep is complicated in ways not yet resolved.
+- Syrenne identified Corvin's grandfather as a first expedition member. The full shape of what she knows — and when she knew it — has not been explored.
+- The pool chamber has not been shown to the rest of the party. Zero's call on when and whether to share it.
+- Mira and Torven produced significant documentation overnight. What they found beyond what was shared in the session has not been fully explored.
+- Renaer Neverember is still owed a full briefing on return. This debt is now considerably more complex than it was when it was incurred.
+- Lira is still out there. Torven's confession clarifies her role — mechanism, not equal — but her next move remains unknown.
+- Edder Harwick — told to find Zero at New Olamn. He may already be there.
+- The fourth function of the Instrument requires a player. Zero has heard the song. These two facts are connected.
+- Tave, the Sembian writer, is somewhere on the valley road heading north. She said she'd write about what she saw at the hearthside in Amphail. That thread is still moving on its own.
 
 ---
 <!-- Duplicate the Session entry block above for each new session -->

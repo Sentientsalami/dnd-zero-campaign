@@ -25,7 +25,7 @@ Lean, dark-skinned woman, quietly watchful. Moves without announcing herself. Pr
 Daven's field contact with deep knowledge of the Dessarin Valley. Has ranged these roads and ruins for years. Doesn't discuss where she came from; the valley is her territory and she knows it better than anyone. She located the secondary entrance to Gharraghaur — cave mouth, western face, below Vaester's Tower — in a single night's scouting.
 
 ### Agenda
-- **Short-term goal:** Get the party into and out of Gharraghaur without losing anyone.
+- **Short-term goal:** Get the party back to Waterdeep without losing anyone. The return road has the same threats as the approach.
 - **Long-term goal:** Undisclosed. Takes interesting contracts from people she trusts.
 - **Secret (if any):** None established.
 
@@ -42,8 +42,8 @@ Professional respect, rapidly earned. Zero endorsed her call on splitting at the
 ### Current Status
 - **HP:** 34/34
 - **Conditions:** None
-- **Mood/Disposition:** Focused. She found the entrance. She's ready.
-- **Notes:** Leads the approach to the cave mouth. Will enter first.
+- **Mood/Disposition:** The same as always. The chamber didn't shake her.
+- **Notes:** Descended to the Pool with Zero. One of only two people who know about the lower chamber. Has said nothing about it to the rest of the party and will not unless Zero does.
 
 ---
 
@@ -68,7 +68,7 @@ Broad and solid, with Moradin's hammer symbol worn openly at her throat and a wo
 A cleric of Moradin who has spent decades in fieldwork rather than a forge-temple. Daven found her years ago on a ruin job and they've worked together intermittently since. Has seen the inside of more ancient structures than most scholars. Not surprised by much anymore.
 
 ### Agenda
-- **Short-term goal:** Keep Aldric alive. Get the party through the site intact.
+- **Short-term goal:** Keep Aldric alive. Get the party back to Waterdeep intact.
 - **Long-term goal:** Hasn't said. The job interested her, which is enough for now.
 - **Secret (if any):** None established.
 
@@ -112,7 +112,7 @@ Mulhorandi woman, dark skin, close-cropped grey-white hair. Carries a thirteen-p
 A Mulhorandi musicologist who spent eleven years independently tracking the Netherese resonance instrument after her former teacher, Torven Ashwick, disappeared from legitimate scholarship. Has authenticated correspondence proving Torven sought leverage over the resonance network rather than understanding. Carries primary source documentation predating any academic survey of Gharraghaur by approximately four centuries. Chose Zero specifically — the compass rose markers were placed for Zero to follow.
 
 ### Agenda
-- **Short-term goal:** Reach the resonance chamber. Understand what the silencing was and who performed it.
+- **Short-term goal:** Return to Waterdeep with the full documentation she and Torven produced overnight. Begin the work of publication.
 - **Long-term goal:** Ensure the instrument's purpose — if restoration is the right word — is not controlled by any single party, including herself.
 - **Secret (if any):** The depth of her relationship with Torven before his fall from legitimate scholarship has not been fully disclosed. What exactly she witnessed, and when, remains unclear.
 
@@ -131,8 +131,8 @@ Mutual recognition of equals — possibly more. Syrenne built the trail for Zero
 ### Current Status
 - **HP:** 30/30
 - **Conditions:** None
-- **Mood/Disposition:** Tightly controlled anticipation. Eleven years ends in that chamber.
-- **Notes:** Has not spoken properly with Torven since the doorstep recognition. That conversation is live pressure and will arrive before or inside the site. Her Dispel Magic may be critical if the chamber's resonance responds to unintended intention.
+- **Mood/Disposition:** Quieter than before. Eleven years ended in that chamber. She is working out what comes next.
+- **Notes:** Worked alongside Torven on the chamber documentation overnight. The nature of their conversation in the chamber has not been fully explored. Her assessment — "You weren't recruited for this expedition. You were convened." — has been borne out. The full shape of what she knew about the first expedition, and when she knew it, remains unexamined.
 
 ---
 
@@ -145,7 +145,7 @@ Mutual recognition of equals — possibly more. Syrenne built the trail for Zero
 **Pronouns:** He/him
 
 ### Appearance
-Human male, late twenties, New Olamn alumnus. Nervous energy that transforms completely when he sits down with an instrument. Carries his lute across his back and the First Key disc and Instrument in his satchel. Looks exactly like someone who should not be in a ruin.
+Human male, late twenties, New Olamn alumnus. Nervous energy that transforms completely when he sits down with an instrument. Carries his lute across his back and the First Key, Second Key, and Instrument in his satchel. Looks exactly like someone who should not be in a ruin.
 
 ### Personality
 - **Defining Trait:** Genuine — what he feels shows on his face; he has not mastered the gap between feeling and expression
@@ -157,7 +157,7 @@ Human male, late twenties, New Olamn alumnus. Nervous energy that transforms com
 Got in over his head purchasing a mysterious antique music box at the Melvaunt estate auction. With Zero's help, discovered the box was the Netherese resonance instrument. Activated the Instrument alongside Zero — it chose its openers. Has been drawn into the expedition on the basis of that. Zero's mentorship over the past days has shifted his trajectory: he has decided to pursue the bardic track at New Olamn after this is over.
 
 ### Agenda
-- **Short-term goal:** Don't die. Don't lose the First Key or the Instrument.
+- **Short-term goal:** Don't die. Don't lose the First Key, Second Key, or the Instrument.
 - **Long-term goal:** Return to New Olamn and pursue the bardic track in earnest. Write the piece that's been in his head since the hearthside performance.
 - **Secret (if any):** None. Aldric is almost frustratingly transparent.
 
@@ -176,8 +176,8 @@ Owes Zero a significant debt across multiple counts: the retrieval job, the Velv
 ### Current Status
 - **HP:** 15/15
 - **Conditions:** None
-- **Mood/Disposition:** Anxious but committed. The hearthside performance was a threshold; he crossed it. He's carrying that forward into the chamber.
-- **Notes:** Carrying the First Key and the Instrument in his satchel. Does not know about Torven's history or the Syrenne letter. Brynn's primary protective assignment.
+- **Mood/Disposition:** Moved and purposeful. The chamber confirmed something he didn't have words for yet. He has documented everything he experienced.
+- **Notes:** Carrying the First Key, Second Key, and the Instrument in his satchel. Has documented his experience of the chamber in detail. Committed to the bardic track at New Olamn. Brynn's primary protective assignment.
 
 ---
 
@@ -199,11 +199,11 @@ Lavender skin, small swept-back horns, well-dressed without being overdressed fo
 - **Sense of Humor:** Dry, quiet, usually aimed at himself.
 
 ### Backstory (Summary)
-Young tiefling heir to the Ashgate family who is financing the Gharraghaur expedition — but not merely as a patron. His grandfather made a deliberate bequest: not just money, but the knowledge of what Gharraghaur is and why it matters. Corvin is there because his grandfather wanted him there. The nature of what was passed down — and what his grandfather knew — has not been fully disclosed.
+Young tiefling heir to the Ashgate family who is financing the Gharraghaur expedition — but not merely as a patron. His grandfather, Aldric Ashgate, was a member of the first expedition to reach the chamber forty years ago; that party chose to leave the Keys and withdraw, afraid not of the song but of themselves. He left Corvin a letter sealed with the Ashgate crest and a compass rose, instructing him to make the choice as himself, not as an heir. Corvin read the letter en route to the tower and sat in the chamber his grandfather was too afraid to use and made his peace. Syrenne had records of the first expedition but had not named Aldric Ashgate as a member.
 
 ### Agenda
-- **Short-term goal:** Be present at the chamber. Understand what his grandfather wanted him to witness.
-- **Long-term goal:** Make the right choice when the moment arrives — whatever that means. He has asked Zero to help him recognize it.
+- **Short-term goal:** Return to Waterdeep. His grandfather's charge is discharged; the next choice belongs to him.
+- **Long-term goal:** Understand what comes after the chamber — for the expedition, for his family's history, and for whatever his pact is actually connected to.
 - **Secret (if any):** The precise nature of his grandfather's connection to Gharraghaur is unclear. His pact — whether inherited, chosen, or something in between — may be more entangled with the resonance network than it appears.
 
 ### Relationship with Zero
@@ -220,8 +220,8 @@ Corvin knows Zero is a changeling; Zero told him directly and trust was establis
 ### Current Status
 - **HP:** 22/22
 - **Conditions:** None
-- **Mood/Disposition:** Quietly determined. The conversation with Zero about inherited duty has settled something in him — he is here on purpose.
-- **Notes:** Has asked Zero to help him make the right choice. That is a standing commitment that may matter significantly inside the chamber.
+- **Mood/Disposition:** Resolved. He made the choice his grandfather couldn't. He knows it.
+- **Notes:** Read his grandfather's letter en route to the tower. Spent the night in the chamber with the letter in his hands. The question of his pact's entanglement with the resonance network has not been explored.
 
 ---
 
@@ -264,8 +264,8 @@ Professional respect established early and maintained. Mira set working expectat
 ### Current Status
 - **HP:** 24/24
 - **Conditions:** None
-- **Mood/Disposition:** Focused and brisk. The site is two hours away. There is work to be done.
-- **Notes:** Daven holds Brennan's botanical specimen list; fulfilling it is Mira's responsibility. Her Portent dice may be the most strategically valuable resource in the party at the chamber — worth discussing before entry.
+- **Mood/Disposition:** Absorbed. She and Torven worked the chamber walls overnight. She is still processing what they found.
+- **Notes:** Daven holds Brennan's botanical specimen list; fulfilling it is Mira's responsibility (specimens to be collected on the return journey). What she and Torven discovered overnight beyond what was shared in session has not been fully explored.
 
 ---
 
@@ -290,7 +290,7 @@ Lean and weathered, mostly-grey beard, economy of movement. Wears nothing he doe
 Field lead of the expedition with personal knowledge of the Dessarin Valley and the approach to Vaester's Tower. Has visited the site before. Knew the northern blockage wasn't rockfall before anyone confirmed it. Brought in Sable and Brynn from his own network. Has kept Zero's briefing about Torven quiet and professional — told Corvin, ensured Mira was briefed, held the line on party cohesion. He has been in harder situations with worse odds.
 
 ### Agenda
-- **Short-term goal:** Get everyone out of the chamber alive. Complete the expedition correctly.
+- **Short-term goal:** Get everyone back to Waterdeep. The coffle threat past the Stone Bridge is still active on the return road.
 - **Long-term goal:** Not disclosed. This job interests him beyond the contract, but he hasn't said why.
 - **Secret (if any):** His prior visits to the Vaester's Tower area and his foreknowledge about the blockage suggest more history with this site than he has mentioned.
 
@@ -330,15 +330,15 @@ Older, academic bearing, the look of a man who has spent his life in libraries a
 - **Sense of Humor:** Dry and self-aware, in a way that makes it harder to distrust him than it should be.
 
 ### Backstory (Summary)
-Retired scholar, partial Loross translator, expert on Netherese history. Was Syrenne's teacher before he disappeared from legitimate scholarship. Confirmed as Lira's principal via authenticated letter in Torven's own hand, referencing the resonance network as "leverage." Deliberately blocked the northern approach to Gharraghaur fourteen months ago. Joined the expedition with unknown intent. Confronted by Zero on the 19th of Kythorn — Zero named all three of his aliases and raised the word "leverage" directly. His Deception failed the contest. He acknowledged the letter, stated his intention has changed, and accepted he will be watched. He has not yet been tested.
+Retired scholar, partial Loross translator, expert on Netherese history. Was Syrenne's teacher before he disappeared from legitimate scholarship. Confirmed as Lira's principal via authenticated letter — his actual goal was academic primacy, not political power; he cultivated Lira for three years as a mechanism. Deliberately blocked the northern approach to Gharraghaur fourteen months ago; sent a surveillance asset after the party on departure morning that Zero did not detect. Confronted by Zero on the 19th of Kythorn; gave his full confession in the chamber on the 20th. The test came and he chose grace over leverage — working alongside Mira on the chamber documentation with his whole self for the first time in thirty years.
 
 ### Agenda
-- **Short-term goal:** Reach the resonance chamber. Understand the silencing before anyone acts. (Stated. Unverified.)
-- **Long-term goal:** Unknown. His prior stated goal — leverage over the resonance network — may have genuinely shifted. Or the chamber itself may be the moment where the original plan surfaces.
-- **Secret (if any):** The full extent of his arrangement with Lira. What exactly he intended to do with leverage over the resonance network. What he has not yet told anyone about the chamber or the silencing.
+- **Short-term goal:** Support the expedition's return to Waterdeep and the retrieval of the Third Key. Contribute his knowledge and translation work without agenda.
+- **Long-term goal:** Publish the findings of the Gharraghaur expedition through legitimate channels — in full collaboration with Mira and Syrenne, not in competition with them. Make good use of what he nearly destroyed.
+- **Unresolved:** Lira's expectations of him on return. She was his mechanism for three years; she will expect results or an accounting. How he handles that is not yet determined.
 
 ### Relationship with Zero
-Complicated. Torven knows Zero is a changeling, knows Zero read the letter, and has accepted the terms of being watched. The confrontation stripped away his performance; what remained was not monstrous, but it was not resolved either. He is the only member of the party whose behavior inside the chamber is the live test.
+Transformed in the chamber. Zero heard his full confession, helped him to his feet, and called him old friend. Torven received this with the expression of a man who expected judgment and received grace and doesn't know what to do with the weight of that. He is now genuinely, uncomplicatedly allied — working alongside Mira on the chamber documentation overnight with his whole self for the first time in thirty years. He has decided what kind of person he is going to be. He intends to keep the decision.
 
 ### Combat Role
 - **Max HP:** 28
@@ -351,5 +351,5 @@ Complicated. Torven knows Zero is a changeling, knows Zero read the letter, and 
 ### Current Status
 - **HP:** 28/28
 - **Conditions:** None
-- **Mood/Disposition:** Quiet and internal. He said what he said to Zero. Now he has to decide if he meant it.
-- **Notes:** Knows about Syrenne's letter. Does not know that Daven, Corvin, and Mira are all briefed. The moment he discovers the full scope of the party's knowledge of him has not arrived yet.
+- **Mood/Disposition:** Settled. Something he was carrying for a long time has been set down. He is doing the work.
+- **Notes:** Full confession given 20th of Kythorn in the chamber. Lira's expectations on return are unresolved. Does not yet know about the pool or its contents. Working with Mira on chamber documentation — producing the most honest scholarship of his career.

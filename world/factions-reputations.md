@@ -33,7 +33,7 @@
 ### Lira (Independent operator, Waterdeep)
 **Standing:** Suspicious
 **Key Contacts:** Lira (broker/collector, direct point of contact only)
-**Notes:** Dock Ward broker and collector. Torven Ashwick is her confirmed principal — she was operating on his behalf to acquire the Instrument. Whether she answers to anyone above Torven is unknown. Calm, patient, and dangerous. Gave Aldric three days to return the Instrument; when the deadline passed, she moved to a new plan rather than escalating — already adapting. Sent at least one surveillance asset after Zero on the 17th of Kythorn (intercepted and warned off on departure morning). Her next move is unknown. Possible connection to the Xanathar Guild — she used the Blushing Mermaid for meetings, which has known Guild ties, though this is unconfirmed. She has not been investigated directly.
+**Notes:** Dock Ward broker and collector. Torven Ashwick was her principal — she was his mechanism for three years, not his equal; Torven's confession in the chamber confirmed this. Now that Torven is genuinely allied with Zero, Lira's operation has lost its directing intelligence without knowing it. She will expect results or an accounting from Torven on his return. Calm, patient, and dangerous. Gave Aldric three days to return the Instrument; when the deadline passed, she moved to a new plan rather than escalating — already adapting. Sent a surveillance asset after Zero on departure morning (intercepted and warned off); Torven separately sent his own asset that Zero did not detect. Her next move is unknown. Possible connection to the Xanathar Guild — she used the Blushing Mermaid for meetings, which has known Guild ties, though this is unconfirmed. She has not been investigated directly.
 
 ---
 
@@ -51,11 +51,12 @@
 |---|---|---|---|
 | New Olamn | Start: Friendly | Alumni standing | Campaign start |
 | Force Grey | Neutral → Friendly (provisional) | Zero secured backing from Renaer Neverember; debt outstanding | Session 2 |
-| Lira | Neutral → Suspicious | Active threat; missed deadline but adapting; surveillance asset intercepted | Sessions 1–2 |
+| Lira | Neutral → Suspicious | Active threat; missed deadline but adapting; surveillance asset intercepted; Torven's confession reveals she was his mechanism — her operation is now directionless without knowing it | Sessions 1–2, 4 |
 | Xanathar Guild | Start: Neutral (unconfirmed) | Possible Lira connection via Blushing Mermaid; no direct contact | Session 1 |
 
 ---
 
 ## Notes
 - The hooded figure bearing a thirteen-point compass rose who met with Lira on the 17th of Kythorn and departed north has not been identified. May represent a third party with interest in the Instrument.
-- Lira's true principal structure is unknown — she may herself be working for someone above her.
+- Lira's true principal structure is unknown — she may herself be working for someone above Torven.
+- Torven sent a surveillance asset after the party on departure morning that Zero did not detect. This asset is separate from Lira's intercepted tail. Its identity and current status are unknown.
